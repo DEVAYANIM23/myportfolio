@@ -42,11 +42,11 @@ html {
 
 ::-webkit-scrollbar-thumb {
   border-radius: 12px;
-  background: linear-gradient(135deg, #f57308, #fff, rgb(11, 242, 7));
+  background: linear-gradient(135deg, #000000, #fff, rgb(19, 2, 51));
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: linear-gradient(135deg, #1a6ad2, #fff, rgb(245, 5, 53));
+  background: linear-gradient(135deg, #011938, #fff, rgb(37, 4, 63));
 }
 
 /* Section Padding */
@@ -368,7 +368,7 @@ section .title::after {
 /* Linear Gradiant */
 .about .about-content .right .text span {
   /* color: #1e3551; */
-  background: linear-gradient(135deg, #041d3d, #fff, crimson);
+  background: linear-gradient(135deg, #041d3d, #fff, rgb(4, 23, 107));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -936,7 +936,7 @@ section .title::after {
 footer {
   background: #111;
   padding: 6px 16px;
-  color: #888c8d;
+  color: #ccd0d1;
   text-align: center;
 }
 
